@@ -1,0 +1,8 @@
+.container {
+  /* display: flex; */
+  align-items: center;
+  justify-content: space-between;
+  padding: 1%;
+  border-bottom: 2px solid lightgrey;
+  border-top: 2px solid lightgray;
+}
