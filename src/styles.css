@@ -1,1 +1,29 @@
 /* You can add global styles to this file, and also import other style files */
+
+h1 {
+  font-family: "Roboto";
+}
+p {
+  font-family: "Roboto";
+}
+.btn {
+  font-family: "Roboto";
+}
+
+label {
+  font-family: "Roboto";
+}
+
+input {
+  font-family: "Roboto";
+}
+.btn {
+  border: none;
+  background-color: black;
+  color: white;
+  border-radius: 3px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
